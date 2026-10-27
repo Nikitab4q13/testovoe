@@ -1,0 +1,224 @@
+[
+  {
+    "chat_id": 4,
+    "user": {
+      "user_id": 12,
+      "full_name": "Мария Козлов"
+    },
+    "operator": {
+      "operator_id": 13,
+      "full_name": "Сергей Петров"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 5,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 12,
+        "sender_name": "Мария Козлов",
+        "text": "Не вижу обновление по заказу.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 13,
+        "sender_name": "Сергей Петров",
+        "text": "Спасибо за подробности. Сейчас посмотрю статус обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "user",
+        "sender_id": 12,
+        "sender_name": "Мария Козлов",
+        "text": "Проблема появилась сегодня утром.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 13,
+        "sender_name": "Сергей Петров",
+        "text": "Понял вас. Уточните, пожалуйста, когда возникла проблема?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 30,
+    "user": {
+      "user_id": 12,
+      "full_name": "Мария Козлов"
+    },
+    "operator": {
+      "operator_id": 5,
+      "full_name": "Дмитрий Попова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": null,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 12,
+        "sender_name": "Мария Козлов",
+        "text": "Подскажите, когда будет обработан мой запрос?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 5,
+        "sender_name": "Дмитрий Попова",
+        "text": "Здравствуйте! Проверю информацию и помогу разобраться.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 55,
+    "user": {
+      "user_id": 12,
+      "full_name": "Мария Козлов"
+    },
+    "operator": {
+      "operator_id": 11,
+      "full_name": "Анна Морозов"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 5,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 12,
+        "sender_name": "Мария Козлов",
+        "text": "Не вижу обновление по заказу.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 11,
+        "sender_name": "Анна Морозов",
+        "text": "Понял вас. Уточните, пожалуйста, когда возникла проблема?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 95,
+    "user": {
+      "user_id": 12,
+      "full_name": "Мария Козлов"
+    },
+    "operator": {
+      "operator_id": 3,
+      "full_name": "Анна Новикова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 3,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 12,
+        "sender_name": "Мария Козлов",
+        "text": "Помогите изменить данные в профиле.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 3,
+        "sender_name": "Анна Новикова",
+        "text": "Здравствуйте! Проверю информацию и помогу разобраться.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "user",
+        "sender_id": 12,
+        "sender_name": "Мария Козлов",
+        "text": "Дополнительных деталей пока нет.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 3,
+        "sender_name": "Анна Новикова",
+        "text": "Проверил данные: подготовил решение для вашего обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 109,
+    "user": {
+      "user_id": 12,
+      "full_name": "Мария Козлов"
+    },
+    "operator": {
+      "operator_id": 11,
+      "full_name": "Анна Морозов"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "open",
+    "csat": null,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 12,
+        "sender_name": "Мария Козлов",
+        "text": "Помогите изменить данные в профиле.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 11,
+        "sender_name": "Анна Морозов",
+        "text": "Понял вас. Уточните, пожалуйста, когда возникла проблема?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "user",
+        "sender_id": 12,
+        "sender_name": "Мария Козлов",
+        "text": "Спасибо, это именно то, что мне нужно.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 11,
+        "sender_name": "Анна Морозов",
+        "text": "Спасибо за подробности. Сейчас посмотрю статус обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 117,
+    "user": {
+      "user_id": 12,
+      "full_name": "Мария Козлов"
+    },
+    "operator": {
+      "operator_id": 7,
+      "full_name": "Анастасия Смирнова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "open",
+    "csat": null,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 12,
+        "sender_name": "Мария Козлов",
+        "text": "Подскажите, когда будет обработан мой запрос?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 7,
+        "sender_name": "Анастасия Смирнова",
+        "text": "Проверил данные: подготовил решение для вашего обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  }
+]

@@ -1,0 +1,4246 @@
+[
+  {
+    "chat_id": 1,
+    "user": {
+      "user_id": 64,
+      "full_name": "Иван Попова"
+    },
+    "operator": {
+      "operator_id": 1,
+      "full_name": "Дмитрий Новикова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 3,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 64,
+        "sender_name": "Иван Попова",
+        "text": "Не вижу обновление по заказу.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 1,
+        "sender_name": "Дмитрий Новикова",
+        "text": "Спасибо за подробности. Сейчас посмотрю статус обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 2,
+    "user": {
+      "user_id": 77,
+      "full_name": "Татьяна Соловьёва"
+    },
+    "operator": {
+      "operator_id": 5,
+      "full_name": "Дмитрий Попова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 4,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 77,
+        "sender_name": "Татьяна Соловьёва",
+        "text": "Не вижу обновление по заказу.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 5,
+        "sender_name": "Дмитрий Попова",
+        "text": "Здравствуйте! Проверю информацию и помогу разобраться.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 3,
+    "user": {
+      "user_id": 63,
+      "full_name": "Никита Соловьёва"
+    },
+    "operator": {
+      "operator_id": 12,
+      "full_name": "Мария Петров"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 1,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 63,
+        "sender_name": "Никита Соловьёва",
+        "text": "У меня вопрос по последнему платежу.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 12,
+        "sender_name": "Мария Петров",
+        "text": "Спасибо за подробности. Сейчас посмотрю статус обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 4,
+    "user": {
+      "user_id": 12,
+      "full_name": "Мария Козлов"
+    },
+    "operator": {
+      "operator_id": 13,
+      "full_name": "Сергей Петров"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 5,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 12,
+        "sender_name": "Мария Козлов",
+        "text": "Не вижу обновление по заказу.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 13,
+        "sender_name": "Сергей Петров",
+        "text": "Спасибо за подробности. Сейчас посмотрю статус обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "user",
+        "sender_id": 12,
+        "sender_name": "Мария Козлов",
+        "text": "Проблема появилась сегодня утром.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 13,
+        "sender_name": "Сергей Петров",
+        "text": "Понял вас. Уточните, пожалуйста, когда возникла проблема?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 5,
+    "user": {
+      "user_id": 68,
+      "full_name": "Анна Новикова"
+    },
+    "operator": {
+      "operator_id": 3,
+      "full_name": "Анна Новикова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 4,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 68,
+        "sender_name": "Анна Новикова",
+        "text": "Не вижу обновление по заказу.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 3,
+        "sender_name": "Анна Новикова",
+        "text": "Проверил данные: подготовил решение для вашего обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 6,
+    "user": {
+      "user_id": 35,
+      "full_name": "Анастасия Соловьёва"
+    },
+    "operator": {
+      "operator_id": 8,
+      "full_name": "Татьяна Петров"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 2,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 35,
+        "sender_name": "Анастасия Соловьёва",
+        "text": "Не вижу обновление по заказу.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 8,
+        "sender_name": "Татьяна Петров",
+        "text": "Понял вас. Уточните, пожалуйста, когда возникла проблема?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "user",
+        "sender_id": 35,
+        "sender_name": "Анастасия Соловьёва",
+        "text": "Дополнительных деталей пока нет.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 8,
+        "sender_name": "Татьяна Петров",
+        "text": "Спасибо за подробности. Сейчас посмотрю статус обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 7,
+    "user": {
+      "user_id": 25,
+      "full_name": "Ольга Смирнова"
+    },
+    "operator": {
+      "operator_id": 6,
+      "full_name": "Ольга Соловьёва"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 1,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 25,
+        "sender_name": "Ольга Смирнова",
+        "text": "Подскажите, когда будет обработан мой запрос?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 6,
+        "sender_name": "Ольга Соловьёва",
+        "text": "Проверил данные: подготовил решение для вашего обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "user",
+        "sender_id": 25,
+        "sender_name": "Ольга Смирнова",
+        "text": "Дополнительных деталей пока нет.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 6,
+        "sender_name": "Ольга Соловьёва",
+        "text": "Понял вас. Уточните, пожалуйста, когда возникла проблема?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 8,
+    "user": {
+      "user_id": 25,
+      "full_name": "Ольга Смирнова"
+    },
+    "operator": {
+      "operator_id": 12,
+      "full_name": "Мария Петров"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 1,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 25,
+        "sender_name": "Ольга Смирнова",
+        "text": "Не вижу обновление по заказу.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 12,
+        "sender_name": "Мария Петров",
+        "text": "Спасибо за подробности. Сейчас посмотрю статус обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "user",
+        "sender_id": 25,
+        "sender_name": "Ольга Смирнова",
+        "text": "Спасибо, это именно то, что мне нужно.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 12,
+        "sender_name": "Мария Петров",
+        "text": "Здравствуйте! Проверю информацию и помогу разобраться.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 9,
+    "user": {
+      "user_id": 7,
+      "full_name": "Никита Волкова"
+    },
+    "operator": {
+      "operator_id": 13,
+      "full_name": "Сергей Петров"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": null,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 7,
+        "sender_name": "Никита Волкова",
+        "text": "У меня вопрос по последнему платежу.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 13,
+        "sender_name": "Сергей Петров",
+        "text": "Понял вас. Уточните, пожалуйста, когда возникла проблема?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 10,
+    "user": {
+      "user_id": 63,
+      "full_name": "Никита Соловьёва"
+    },
+    "operator": {
+      "operator_id": 14,
+      "full_name": "Михаил Соловьёва"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 2,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 63,
+        "sender_name": "Никита Соловьёва",
+        "text": "Не получается войти в личный кабинет.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 14,
+        "sender_name": "Михаил Соловьёва",
+        "text": "Здравствуйте! Проверю информацию и помогу разобраться.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 11,
+    "user": {
+      "user_id": 7,
+      "full_name": "Никита Волкова"
+    },
+    "operator": {
+      "operator_id": 2,
+      "full_name": "Ольга Лебедева"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 1,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 7,
+        "sender_name": "Никита Волкова",
+        "text": "Не вижу обновление по заказу.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 2,
+        "sender_name": "Ольга Лебедева",
+        "text": "Проверил данные: подготовил решение для вашего обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "user",
+        "sender_id": 7,
+        "sender_name": "Никита Волкова",
+        "text": "Проблема появилась сегодня утром.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 2,
+        "sender_name": "Ольга Лебедева",
+        "text": "Проверил данные: подготовил решение для вашего обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 12,
+    "user": {
+      "user_id": 20,
+      "full_name": "Дмитрий Лебедева"
+    },
+    "operator": {
+      "operator_id": 9,
+      "full_name": "Никита Попова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 5,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 20,
+        "sender_name": "Дмитрий Лебедева",
+        "text": "Подскажите, когда будет обработан мой запрос?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 9,
+        "sender_name": "Никита Попова",
+        "text": "Понял вас. Уточните, пожалуйста, когда возникла проблема?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "user",
+        "sender_id": 20,
+        "sender_name": "Дмитрий Лебедева",
+        "text": "Проблема появилась сегодня утром.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 9,
+        "sender_name": "Никита Попова",
+        "text": "Здравствуйте! Проверю информацию и помогу разобраться.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 13,
+    "user": {
+      "user_id": 80,
+      "full_name": "Татьяна Морозов"
+    },
+    "operator": {
+      "operator_id": 11,
+      "full_name": "Анна Морозов"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": null,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 80,
+        "sender_name": "Татьяна Морозов",
+        "text": "Подскажите, когда будет обработан мой запрос?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 11,
+        "sender_name": "Анна Морозов",
+        "text": "Проверил данные: подготовил решение для вашего обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 14,
+    "user": {
+      "user_id": 55,
+      "full_name": "Елена Попова"
+    },
+    "operator": {
+      "operator_id": 9,
+      "full_name": "Никита Попова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 4,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 55,
+        "sender_name": "Елена Попова",
+        "text": "Не вижу обновление по заказу.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 9,
+        "sender_name": "Никита Попова",
+        "text": "Здравствуйте! Проверю информацию и помогу разобраться.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 15,
+    "user": {
+      "user_id": 27,
+      "full_name": "Александр Лебедева"
+    },
+    "operator": {
+      "operator_id": 12,
+      "full_name": "Мария Петров"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 1,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 27,
+        "sender_name": "Александр Лебедева",
+        "text": "Подскажите, когда будет обработан мой запрос?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 12,
+        "sender_name": "Мария Петров",
+        "text": "Понял вас. Уточните, пожалуйста, когда возникла проблема?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 16,
+    "user": {
+      "user_id": 21,
+      "full_name": "Анна Лебедева"
+    },
+    "operator": {
+      "operator_id": 1,
+      "full_name": "Дмитрий Новикова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 2,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 21,
+        "sender_name": "Анна Лебедева",
+        "text": "Не получается войти в личный кабинет.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 1,
+        "sender_name": "Дмитрий Новикова",
+        "text": "Проверил данные: подготовил решение для вашего обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 17,
+    "user": {
+      "user_id": 37,
+      "full_name": "Сергей Морозов"
+    },
+    "operator": {
+      "operator_id": 11,
+      "full_name": "Анна Морозов"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 2,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 37,
+        "sender_name": "Сергей Морозов",
+        "text": "Не вижу обновление по заказу.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 11,
+        "sender_name": "Анна Морозов",
+        "text": "Проверил данные: подготовил решение для вашего обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "user",
+        "sender_id": 37,
+        "sender_name": "Сергей Морозов",
+        "text": "Проблема появилась сегодня утром.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 11,
+        "sender_name": "Анна Морозов",
+        "text": "Понял вас. Уточните, пожалуйста, когда возникла проблема?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 18,
+    "user": {
+      "user_id": 76,
+      "full_name": "Сергей Новикова"
+    },
+    "operator": {
+      "operator_id": 8,
+      "full_name": "Татьяна Петров"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 2,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 76,
+        "sender_name": "Сергей Новикова",
+        "text": "Подскажите, когда будет обработан мой запрос?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 8,
+        "sender_name": "Татьяна Петров",
+        "text": "Проверил данные: подготовил решение для вашего обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "user",
+        "sender_id": 76,
+        "sender_name": "Сергей Новикова",
+        "text": "Проблема появилась сегодня утром.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 8,
+        "sender_name": "Татьяна Петров",
+        "text": "Спасибо за подробности. Сейчас посмотрю статус обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 19,
+    "user": {
+      "user_id": 19,
+      "full_name": "Дмитрий Морозов"
+    },
+    "operator": {
+      "operator_id": 14,
+      "full_name": "Михаил Соловьёва"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 3,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 19,
+        "sender_name": "Дмитрий Морозов",
+        "text": "Не получается войти в личный кабинет.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 14,
+        "sender_name": "Михаил Соловьёва",
+        "text": "Здравствуйте! Проверю информацию и помогу разобраться.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "user",
+        "sender_id": 19,
+        "sender_name": "Дмитрий Морозов",
+        "text": "Спасибо, это именно то, что мне нужно.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 14,
+        "sender_name": "Михаил Соловьёва",
+        "text": "Понял вас. Уточните, пожалуйста, когда возникла проблема?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 20,
+    "user": {
+      "user_id": 52,
+      "full_name": "Дмитрий Попова"
+    },
+    "operator": {
+      "operator_id": 7,
+      "full_name": "Анастасия Смирнова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 2,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 52,
+        "sender_name": "Дмитрий Попова",
+        "text": "Не вижу обновление по заказу.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 7,
+        "sender_name": "Анастасия Смирнова",
+        "text": "Проверил данные: подготовил решение для вашего обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "user",
+        "sender_id": 52,
+        "sender_name": "Дмитрий Попова",
+        "text": "Дополнительных деталей пока нет.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 7,
+        "sender_name": "Анастасия Смирнова",
+        "text": "Здравствуйте! Проверю информацию и помогу разобраться.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 21,
+    "user": {
+      "user_id": 42,
+      "full_name": "Татьяна Смирнова"
+    },
+    "operator": {
+      "operator_id": 15,
+      "full_name": "Елена Новикова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 4,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 42,
+        "sender_name": "Татьяна Смирнова",
+        "text": "У меня вопрос по последнему платежу.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 15,
+        "sender_name": "Елена Новикова",
+        "text": "Понял вас. Уточните, пожалуйста, когда возникла проблема?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "user",
+        "sender_id": 42,
+        "sender_name": "Татьяна Смирнова",
+        "text": "Проблема появилась сегодня утром.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 15,
+        "sender_name": "Елена Новикова",
+        "text": "Здравствуйте! Проверю информацию и помогу разобраться.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 22,
+    "user": {
+      "user_id": 35,
+      "full_name": "Анастасия Соловьёва"
+    },
+    "operator": {
+      "operator_id": 14,
+      "full_name": "Михаил Соловьёва"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 4,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 35,
+        "sender_name": "Анастасия Соловьёва",
+        "text": "У меня вопрос по последнему платежу.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 14,
+        "sender_name": "Михаил Соловьёва",
+        "text": "Здравствуйте! Проверю информацию и помогу разобраться.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 23,
+    "user": {
+      "user_id": 36,
+      "full_name": "Татьяна Соловьёва"
+    },
+    "operator": {
+      "operator_id": 12,
+      "full_name": "Мария Петров"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 3,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 36,
+        "sender_name": "Татьяна Соловьёва",
+        "text": "Подскажите, когда будет обработан мой запрос?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 12,
+        "sender_name": "Мария Петров",
+        "text": "Проверил данные: подготовил решение для вашего обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 24,
+    "user": {
+      "user_id": 53,
+      "full_name": "Мария Козлов"
+    },
+    "operator": {
+      "operator_id": 12,
+      "full_name": "Мария Петров"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 2,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 53,
+        "sender_name": "Мария Козлов",
+        "text": "Не вижу обновление по заказу.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 12,
+        "sender_name": "Мария Петров",
+        "text": "Понял вас. Уточните, пожалуйста, когда возникла проблема?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 25,
+    "user": {
+      "user_id": 43,
+      "full_name": "Анна Попова"
+    },
+    "operator": {
+      "operator_id": 3,
+      "full_name": "Анна Новикова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 3,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 43,
+        "sender_name": "Анна Попова",
+        "text": "Помогите изменить данные в профиле.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 3,
+        "sender_name": "Анна Новикова",
+        "text": "Проверил данные: подготовил решение для вашего обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "user",
+        "sender_id": 43,
+        "sender_name": "Анна Попова",
+        "text": "Спасибо, это именно то, что мне нужно.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 3,
+        "sender_name": "Анна Новикова",
+        "text": "Здравствуйте! Проверю информацию и помогу разобраться.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 26,
+    "user": {
+      "user_id": 15,
+      "full_name": "Сергей Новикова"
+    },
+    "operator": {
+      "operator_id": 1,
+      "full_name": "Дмитрий Новикова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 2,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 15,
+        "sender_name": "Сергей Новикова",
+        "text": "Помогите изменить данные в профиле.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 1,
+        "sender_name": "Дмитрий Новикова",
+        "text": "Здравствуйте! Проверю информацию и помогу разобраться.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 27,
+    "user": {
+      "user_id": 67,
+      "full_name": "Елена Попова"
+    },
+    "operator": {
+      "operator_id": 2,
+      "full_name": "Ольга Лебедева"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 2,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 67,
+        "sender_name": "Елена Попова",
+        "text": "Не вижу обновление по заказу.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 2,
+        "sender_name": "Ольга Лебедева",
+        "text": "Проверил данные: подготовил решение для вашего обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 28,
+    "user": {
+      "user_id": 27,
+      "full_name": "Александр Лебедева"
+    },
+    "operator": {
+      "operator_id": 14,
+      "full_name": "Михаил Соловьёва"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 1,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 27,
+        "sender_name": "Александр Лебедева",
+        "text": "Не вижу обновление по заказу.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 14,
+        "sender_name": "Михаил Соловьёва",
+        "text": "Спасибо за подробности. Сейчас посмотрю статус обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 29,
+    "user": {
+      "user_id": 4,
+      "full_name": "Александр Кузнецов"
+    },
+    "operator": {
+      "operator_id": 1,
+      "full_name": "Дмитрий Новикова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 4,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 4,
+        "sender_name": "Александр Кузнецов",
+        "text": "У меня вопрос по последнему платежу.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 1,
+        "sender_name": "Дмитрий Новикова",
+        "text": "Спасибо за подробности. Сейчас посмотрю статус обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 30,
+    "user": {
+      "user_id": 12,
+      "full_name": "Мария Козлов"
+    },
+    "operator": {
+      "operator_id": 5,
+      "full_name": "Дмитрий Попова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": null,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 12,
+        "sender_name": "Мария Козлов",
+        "text": "Подскажите, когда будет обработан мой запрос?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 5,
+        "sender_name": "Дмитрий Попова",
+        "text": "Здравствуйте! Проверю информацию и помогу разобраться.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 31,
+    "user": {
+      "user_id": 64,
+      "full_name": "Иван Попова"
+    },
+    "operator": {
+      "operator_id": 3,
+      "full_name": "Анна Новикова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 4,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 64,
+        "sender_name": "Иван Попова",
+        "text": "Не вижу обновление по заказу.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 3,
+        "sender_name": "Анна Новикова",
+        "text": "Понял вас. Уточните, пожалуйста, когда возникла проблема?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "user",
+        "sender_id": 64,
+        "sender_name": "Иван Попова",
+        "text": "Спасибо, это именно то, что мне нужно.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 3,
+        "sender_name": "Анна Новикова",
+        "text": "Проверил данные: подготовил решение для вашего обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 32,
+    "user": {
+      "user_id": 25,
+      "full_name": "Ольга Смирнова"
+    },
+    "operator": {
+      "operator_id": 1,
+      "full_name": "Дмитрий Новикова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 4,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 25,
+        "sender_name": "Ольга Смирнова",
+        "text": "У меня вопрос по последнему платежу.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 1,
+        "sender_name": "Дмитрий Новикова",
+        "text": "Спасибо за подробности. Сейчас посмотрю статус обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 33,
+    "user": {
+      "user_id": 44,
+      "full_name": "Иван Волкова"
+    },
+    "operator": {
+      "operator_id": 3,
+      "full_name": "Анна Новикова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 5,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 44,
+        "sender_name": "Иван Волкова",
+        "text": "У меня вопрос по последнему платежу.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 3,
+        "sender_name": "Анна Новикова",
+        "text": "Понял вас. Уточните, пожалуйста, когда возникла проблема?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 34,
+    "user": {
+      "user_id": 75,
+      "full_name": "Елена Козлов"
+    },
+    "operator": {
+      "operator_id": 10,
+      "full_name": "Анна Волкова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 4,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 75,
+        "sender_name": "Елена Козлов",
+        "text": "Помогите изменить данные в профиле.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 10,
+        "sender_name": "Анна Волкова",
+        "text": "Спасибо за подробности. Сейчас посмотрю статус обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "user",
+        "sender_id": 75,
+        "sender_name": "Елена Козлов",
+        "text": "Спасибо, это именно то, что мне нужно.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 10,
+        "sender_name": "Анна Волкова",
+        "text": "Понял вас. Уточните, пожалуйста, когда возникла проблема?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 35,
+    "user": {
+      "user_id": 59,
+      "full_name": "Татьяна Попова"
+    },
+    "operator": {
+      "operator_id": 14,
+      "full_name": "Михаил Соловьёва"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 4,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 59,
+        "sender_name": "Татьяна Попова",
+        "text": "Не вижу обновление по заказу.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 14,
+        "sender_name": "Михаил Соловьёва",
+        "text": "Спасибо за подробности. Сейчас посмотрю статус обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 36,
+    "user": {
+      "user_id": 6,
+      "full_name": "Иван Иванов"
+    },
+    "operator": {
+      "operator_id": 5,
+      "full_name": "Дмитрий Попова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 3,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 6,
+        "sender_name": "Иван Иванов",
+        "text": "Не вижу обновление по заказу.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 5,
+        "sender_name": "Дмитрий Попова",
+        "text": "Проверил данные: подготовил решение для вашего обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 37,
+    "user": {
+      "user_id": 50,
+      "full_name": "Дмитрий Иванов"
+    },
+    "operator": {
+      "operator_id": 3,
+      "full_name": "Анна Новикова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": null,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 50,
+        "sender_name": "Дмитрий Иванов",
+        "text": "Подскажите, когда будет обработан мой запрос?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 3,
+        "sender_name": "Анна Новикова",
+        "text": "Проверил данные: подготовил решение для вашего обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 38,
+    "user": {
+      "user_id": 43,
+      "full_name": "Анна Попова"
+    },
+    "operator": {
+      "operator_id": 10,
+      "full_name": "Анна Волкова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 5,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 43,
+        "sender_name": "Анна Попова",
+        "text": "Не получается войти в личный кабинет.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 10,
+        "sender_name": "Анна Волкова",
+        "text": "Проверил данные: подготовил решение для вашего обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "user",
+        "sender_id": 43,
+        "sender_name": "Анна Попова",
+        "text": "Спасибо, это именно то, что мне нужно.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 10,
+        "sender_name": "Анна Волкова",
+        "text": "Здравствуйте! Проверю информацию и помогу разобраться.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 39,
+    "user": {
+      "user_id": 53,
+      "full_name": "Мария Козлов"
+    },
+    "operator": {
+      "operator_id": 14,
+      "full_name": "Михаил Соловьёва"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": null,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 53,
+        "sender_name": "Мария Козлов",
+        "text": "Подскажите, когда будет обработан мой запрос?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 14,
+        "sender_name": "Михаил Соловьёва",
+        "text": "Здравствуйте! Проверю информацию и помогу разобраться.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 40,
+    "user": {
+      "user_id": 44,
+      "full_name": "Иван Волкова"
+    },
+    "operator": {
+      "operator_id": 4,
+      "full_name": "Никита Смирнова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 1,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 44,
+        "sender_name": "Иван Волкова",
+        "text": "У меня вопрос по последнему платежу.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 4,
+        "sender_name": "Никита Смирнова",
+        "text": "Проверил данные: подготовил решение для вашего обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 41,
+    "user": {
+      "user_id": 69,
+      "full_name": "Елена Кузнецов"
+    },
+    "operator": {
+      "operator_id": 13,
+      "full_name": "Сергей Петров"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 4,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 69,
+        "sender_name": "Елена Кузнецов",
+        "text": "Помогите изменить данные в профиле.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 13,
+        "sender_name": "Сергей Петров",
+        "text": "Понял вас. Уточните, пожалуйста, когда возникла проблема?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 42,
+    "user": {
+      "user_id": 63,
+      "full_name": "Никита Соловьёва"
+    },
+    "operator": {
+      "operator_id": 1,
+      "full_name": "Дмитрий Новикова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 3,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 63,
+        "sender_name": "Никита Соловьёва",
+        "text": "У меня вопрос по последнему платежу.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 1,
+        "sender_name": "Дмитрий Новикова",
+        "text": "Здравствуйте! Проверю информацию и помогу разобраться.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 43,
+    "user": {
+      "user_id": 30,
+      "full_name": "Анастасия Иванов"
+    },
+    "operator": {
+      "operator_id": 3,
+      "full_name": "Анна Новикова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": null,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 30,
+        "sender_name": "Анастасия Иванов",
+        "text": "Не получается войти в личный кабинет.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 3,
+        "sender_name": "Анна Новикова",
+        "text": "Проверил данные: подготовил решение для вашего обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 44,
+    "user": {
+      "user_id": 13,
+      "full_name": "Елена Петров"
+    },
+    "operator": {
+      "operator_id": 1,
+      "full_name": "Дмитрий Новикова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 5,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 13,
+        "sender_name": "Елена Петров",
+        "text": "Помогите изменить данные в профиле.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 1,
+        "sender_name": "Дмитрий Новикова",
+        "text": "Спасибо за подробности. Сейчас посмотрю статус обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 45,
+    "user": {
+      "user_id": 38,
+      "full_name": "Татьяна Смирнова"
+    },
+    "operator": {
+      "operator_id": 6,
+      "full_name": "Ольга Соловьёва"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 2,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 38,
+        "sender_name": "Татьяна Смирнова",
+        "text": "Не вижу обновление по заказу.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 6,
+        "sender_name": "Ольга Соловьёва",
+        "text": "Понял вас. Уточните, пожалуйста, когда возникла проблема?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "user",
+        "sender_id": 38,
+        "sender_name": "Татьяна Смирнова",
+        "text": "Проблема появилась сегодня утром.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 6,
+        "sender_name": "Ольга Соловьёва",
+        "text": "Проверил данные: подготовил решение для вашего обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 46,
+    "user": {
+      "user_id": 23,
+      "full_name": "Никита Новикова"
+    },
+    "operator": {
+      "operator_id": 6,
+      "full_name": "Ольга Соловьёва"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": null,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 23,
+        "sender_name": "Никита Новикова",
+        "text": "Не получается войти в личный кабинет.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 6,
+        "sender_name": "Ольга Соловьёва",
+        "text": "Проверил данные: подготовил решение для вашего обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 47,
+    "user": {
+      "user_id": 19,
+      "full_name": "Дмитрий Морозов"
+    },
+    "operator": {
+      "operator_id": 6,
+      "full_name": "Ольга Соловьёва"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 4,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 19,
+        "sender_name": "Дмитрий Морозов",
+        "text": "Подскажите, когда будет обработан мой запрос?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 6,
+        "sender_name": "Ольга Соловьёва",
+        "text": "Проверил данные: подготовил решение для вашего обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 48,
+    "user": {
+      "user_id": 37,
+      "full_name": "Сергей Морозов"
+    },
+    "operator": {
+      "operator_id": 6,
+      "full_name": "Ольга Соловьёва"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 3,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 37,
+        "sender_name": "Сергей Морозов",
+        "text": "У меня вопрос по последнему платежу.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 6,
+        "sender_name": "Ольга Соловьёва",
+        "text": "Спасибо за подробности. Сейчас посмотрю статус обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "user",
+        "sender_id": 37,
+        "sender_name": "Сергей Морозов",
+        "text": "Спасибо, это именно то, что мне нужно.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 6,
+        "sender_name": "Ольга Соловьёва",
+        "text": "Понял вас. Уточните, пожалуйста, когда возникла проблема?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 49,
+    "user": {
+      "user_id": 59,
+      "full_name": "Татьяна Попова"
+    },
+    "operator": {
+      "operator_id": 6,
+      "full_name": "Ольга Соловьёва"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 3,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 59,
+        "sender_name": "Татьяна Попова",
+        "text": "Не вижу обновление по заказу.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 6,
+        "sender_name": "Ольга Соловьёва",
+        "text": "Спасибо за подробности. Сейчас посмотрю статус обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 50,
+    "user": {
+      "user_id": 74,
+      "full_name": "Елена Соколов"
+    },
+    "operator": {
+      "operator_id": 9,
+      "full_name": "Никита Попова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": null,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 74,
+        "sender_name": "Елена Соколов",
+        "text": "Не вижу обновление по заказу.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 9,
+        "sender_name": "Никита Попова",
+        "text": "Понял вас. Уточните, пожалуйста, когда возникла проблема?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 51,
+    "user": {
+      "user_id": 51,
+      "full_name": "Елена Петров"
+    },
+    "operator": {
+      "operator_id": 9,
+      "full_name": "Никита Попова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 1,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 51,
+        "sender_name": "Елена Петров",
+        "text": "Не вижу обновление по заказу.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 9,
+        "sender_name": "Никита Попова",
+        "text": "Здравствуйте! Проверю информацию и помогу разобраться.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 52,
+    "user": {
+      "user_id": 78,
+      "full_name": "Михаил Козлов"
+    },
+    "operator": {
+      "operator_id": 9,
+      "full_name": "Никита Попова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": null,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 78,
+        "sender_name": "Михаил Козлов",
+        "text": "Помогите изменить данные в профиле.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 9,
+        "sender_name": "Никита Попова",
+        "text": "Понял вас. Уточните, пожалуйста, когда возникла проблема?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 53,
+    "user": {
+      "user_id": 29,
+      "full_name": "Анна Смирнова"
+    },
+    "operator": {
+      "operator_id": 9,
+      "full_name": "Никита Попова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 5,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 29,
+        "sender_name": "Анна Смирнова",
+        "text": "Подскажите, когда будет обработан мой запрос?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 9,
+        "sender_name": "Никита Попова",
+        "text": "Понял вас. Уточните, пожалуйста, когда возникла проблема?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 54,
+    "user": {
+      "user_id": 13,
+      "full_name": "Елена Петров"
+    },
+    "operator": {
+      "operator_id": 11,
+      "full_name": "Анна Морозов"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 2,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 13,
+        "sender_name": "Елена Петров",
+        "text": "Не получается войти в личный кабинет.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 11,
+        "sender_name": "Анна Морозов",
+        "text": "Понял вас. Уточните, пожалуйста, когда возникла проблема?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 55,
+    "user": {
+      "user_id": 12,
+      "full_name": "Мария Козлов"
+    },
+    "operator": {
+      "operator_id": 11,
+      "full_name": "Анна Морозов"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 5,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 12,
+        "sender_name": "Мария Козлов",
+        "text": "Не вижу обновление по заказу.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 11,
+        "sender_name": "Анна Морозов",
+        "text": "Понял вас. Уточните, пожалуйста, когда возникла проблема?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 56,
+    "user": {
+      "user_id": 47,
+      "full_name": "Михаил Соколов"
+    },
+    "operator": {
+      "operator_id": 11,
+      "full_name": "Анна Морозов"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": null,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 47,
+        "sender_name": "Михаил Соколов",
+        "text": "У меня вопрос по последнему платежу.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 11,
+        "sender_name": "Анна Морозов",
+        "text": "Понял вас. Уточните, пожалуйста, когда возникла проблема?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 57,
+    "user": {
+      "user_id": 62,
+      "full_name": "Мария Козлов"
+    },
+    "operator": {
+      "operator_id": 11,
+      "full_name": "Анна Морозов"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 2,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 62,
+        "sender_name": "Мария Козлов",
+        "text": "Не вижу обновление по заказу.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 11,
+        "sender_name": "Анна Морозов",
+        "text": "Понял вас. Уточните, пожалуйста, когда возникла проблема?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 58,
+    "user": {
+      "user_id": 51,
+      "full_name": "Елена Петров"
+    },
+    "operator": {
+      "operator_id": 11,
+      "full_name": "Анна Морозов"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 3,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 51,
+        "sender_name": "Елена Петров",
+        "text": "У меня вопрос по последнему платежу.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 11,
+        "sender_name": "Анна Морозов",
+        "text": "Понял вас. Уточните, пожалуйста, когда возникла проблема?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "user",
+        "sender_id": 51,
+        "sender_name": "Елена Петров",
+        "text": "Спасибо, это именно то, что мне нужно.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 11,
+        "sender_name": "Анна Морозов",
+        "text": "Здравствуйте! Проверю информацию и помогу разобраться.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 59,
+    "user": {
+      "user_id": 34,
+      "full_name": "Дмитрий Козлов"
+    },
+    "operator": {
+      "operator_id": 11,
+      "full_name": "Анна Морозов"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 5,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 34,
+        "sender_name": "Дмитрий Козлов",
+        "text": "У меня вопрос по последнему платежу.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 11,
+        "sender_name": "Анна Морозов",
+        "text": "Проверил данные: подготовил решение для вашего обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 60,
+    "user": {
+      "user_id": 61,
+      "full_name": "Татьяна Лебедева"
+    },
+    "operator": {
+      "operator_id": 8,
+      "full_name": "Татьяна Петров"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 4,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 61,
+        "sender_name": "Татьяна Лебедева",
+        "text": "Не получается войти в личный кабинет.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 8,
+        "sender_name": "Татьяна Петров",
+        "text": "Понял вас. Уточните, пожалуйста, когда возникла проблема?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 61,
+    "user": {
+      "user_id": 39,
+      "full_name": "Татьяна Иванов"
+    },
+    "operator": {
+      "operator_id": 8,
+      "full_name": "Татьяна Петров"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 4,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 39,
+        "sender_name": "Татьяна Иванов",
+        "text": "Помогите изменить данные в профиле.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 8,
+        "sender_name": "Татьяна Петров",
+        "text": "Здравствуйте! Проверю информацию и помогу разобраться.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "user",
+        "sender_id": 39,
+        "sender_name": "Татьяна Иванов",
+        "text": "Проблема появилась сегодня утром.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 8,
+        "sender_name": "Татьяна Петров",
+        "text": "Понял вас. Уточните, пожалуйста, когда возникла проблема?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 62,
+    "user": {
+      "user_id": 69,
+      "full_name": "Елена Кузнецов"
+    },
+    "operator": {
+      "operator_id": 7,
+      "full_name": "Анастасия Смирнова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 5,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 69,
+        "sender_name": "Елена Кузнецов",
+        "text": "Подскажите, когда будет обработан мой запрос?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 7,
+        "sender_name": "Анастасия Смирнова",
+        "text": "Проверил данные: подготовил решение для вашего обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 63,
+    "user": {
+      "user_id": 54,
+      "full_name": "Александр Новикова"
+    },
+    "operator": {
+      "operator_id": 7,
+      "full_name": "Анастасия Смирнова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": null,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 54,
+        "sender_name": "Александр Новикова",
+        "text": "У меня вопрос по последнему платежу.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 7,
+        "sender_name": "Анастасия Смирнова",
+        "text": "Спасибо за подробности. Сейчас посмотрю статус обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 64,
+    "user": {
+      "user_id": 79,
+      "full_name": "Александр Козлов"
+    },
+    "operator": {
+      "operator_id": 7,
+      "full_name": "Анастасия Смирнова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": null,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 79,
+        "sender_name": "Александр Козлов",
+        "text": "Помогите изменить данные в профиле.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 7,
+        "sender_name": "Анастасия Смирнова",
+        "text": "Понял вас. Уточните, пожалуйста, когда возникла проблема?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "user",
+        "sender_id": 79,
+        "sender_name": "Александр Козлов",
+        "text": "Спасибо, это именно то, что мне нужно.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 7,
+        "sender_name": "Анастасия Смирнова",
+        "text": "Спасибо за подробности. Сейчас посмотрю статус обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 65,
+    "user": {
+      "user_id": 47,
+      "full_name": "Михаил Соколов"
+    },
+    "operator": {
+      "operator_id": 7,
+      "full_name": "Анастасия Смирнова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 4,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 47,
+        "sender_name": "Михаил Соколов",
+        "text": "Не получается войти в личный кабинет.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 7,
+        "sender_name": "Анастасия Смирнова",
+        "text": "Понял вас. Уточните, пожалуйста, когда возникла проблема?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 66,
+    "user": {
+      "user_id": 36,
+      "full_name": "Татьяна Соловьёва"
+    },
+    "operator": {
+      "operator_id": 15,
+      "full_name": "Елена Новикова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 4,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 36,
+        "sender_name": "Татьяна Соловьёва",
+        "text": "Подскажите, когда будет обработан мой запрос?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 15,
+        "sender_name": "Елена Новикова",
+        "text": "Здравствуйте! Проверю информацию и помогу разобраться.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 67,
+    "user": {
+      "user_id": 77,
+      "full_name": "Татьяна Соловьёва"
+    },
+    "operator": {
+      "operator_id": 12,
+      "full_name": "Мария Петров"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 5,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 77,
+        "sender_name": "Татьяна Соловьёва",
+        "text": "Не получается войти в личный кабинет.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 12,
+        "sender_name": "Мария Петров",
+        "text": "Здравствуйте! Проверю информацию и помогу разобраться.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 68,
+    "user": {
+      "user_id": 27,
+      "full_name": "Александр Лебедева"
+    },
+    "operator": {
+      "operator_id": 12,
+      "full_name": "Мария Петров"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 3,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 27,
+        "sender_name": "Александр Лебедева",
+        "text": "Не получается войти в личный кабинет.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 12,
+        "sender_name": "Мария Петров",
+        "text": "Спасибо за подробности. Сейчас посмотрю статус обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 69,
+    "user": {
+      "user_id": 77,
+      "full_name": "Татьяна Соловьёва"
+    },
+    "operator": {
+      "operator_id": 2,
+      "full_name": "Ольга Лебедева"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 3,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 77,
+        "sender_name": "Татьяна Соловьёва",
+        "text": "Не получается войти в личный кабинет.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 2,
+        "sender_name": "Ольга Лебедева",
+        "text": "Понял вас. Уточните, пожалуйста, когда возникла проблема?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 70,
+    "user": {
+      "user_id": 23,
+      "full_name": "Никита Новикова"
+    },
+    "operator": {
+      "operator_id": 2,
+      "full_name": "Ольга Лебедева"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 3,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 23,
+        "sender_name": "Никита Новикова",
+        "text": "Не получается войти в личный кабинет.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 2,
+        "sender_name": "Ольга Лебедева",
+        "text": "Здравствуйте! Проверю информацию и помогу разобраться.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "user",
+        "sender_id": 23,
+        "sender_name": "Никита Новикова",
+        "text": "Спасибо, это именно то, что мне нужно.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 2,
+        "sender_name": "Ольга Лебедева",
+        "text": "Спасибо за подробности. Сейчас посмотрю статус обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 71,
+    "user": {
+      "user_id": 7,
+      "full_name": "Никита Волкова"
+    },
+    "operator": {
+      "operator_id": 2,
+      "full_name": "Ольга Лебедева"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 2,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 7,
+        "sender_name": "Никита Волкова",
+        "text": "Подскажите, когда будет обработан мой запрос?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 2,
+        "sender_name": "Ольга Лебедева",
+        "text": "Проверил данные: подготовил решение для вашего обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 72,
+    "user": {
+      "user_id": 66,
+      "full_name": "Никита Волкова"
+    },
+    "operator": {
+      "operator_id": 5,
+      "full_name": "Дмитрий Попова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 5,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 66,
+        "sender_name": "Никита Волкова",
+        "text": "У меня вопрос по последнему платежу.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 5,
+        "sender_name": "Дмитрий Попова",
+        "text": "Здравствуйте! Проверю информацию и помогу разобраться.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 73,
+    "user": {
+      "user_id": 39,
+      "full_name": "Татьяна Иванов"
+    },
+    "operator": {
+      "operator_id": 5,
+      "full_name": "Дмитрий Попова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 4,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 39,
+        "sender_name": "Татьяна Иванов",
+        "text": "Помогите изменить данные в профиле.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 5,
+        "sender_name": "Дмитрий Попова",
+        "text": "Здравствуйте! Проверю информацию и помогу разобраться.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "user",
+        "sender_id": 39,
+        "sender_name": "Татьяна Иванов",
+        "text": "Спасибо, это именно то, что мне нужно.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 5,
+        "sender_name": "Дмитрий Попова",
+        "text": "Проверил данные: подготовил решение для вашего обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 74,
+    "user": {
+      "user_id": 10,
+      "full_name": "Никита Смирнова"
+    },
+    "operator": {
+      "operator_id": 5,
+      "full_name": "Дмитрий Попова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 5,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 10,
+        "sender_name": "Никита Смирнова",
+        "text": "Не получается войти в личный кабинет.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 5,
+        "sender_name": "Дмитрий Попова",
+        "text": "Понял вас. Уточните, пожалуйста, когда возникла проблема?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 75,
+    "user": {
+      "user_id": 71,
+      "full_name": "Ольга Петров"
+    },
+    "operator": {
+      "operator_id": 5,
+      "full_name": "Дмитрий Попова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 5,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 71,
+        "sender_name": "Ольга Петров",
+        "text": "Не вижу обновление по заказу.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 5,
+        "sender_name": "Дмитрий Попова",
+        "text": "Проверил данные: подготовил решение для вашего обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 76,
+    "user": {
+      "user_id": 56,
+      "full_name": "Анна Соколов"
+    },
+    "operator": {
+      "operator_id": 5,
+      "full_name": "Дмитрий Попова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 2,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 56,
+        "sender_name": "Анна Соколов",
+        "text": "Не получается войти в личный кабинет.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 5,
+        "sender_name": "Дмитрий Попова",
+        "text": "Здравствуйте! Проверю информацию и помогу разобраться.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 77,
+    "user": {
+      "user_id": 56,
+      "full_name": "Анна Соколов"
+    },
+    "operator": {
+      "operator_id": 5,
+      "full_name": "Дмитрий Попова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 4,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 56,
+        "sender_name": "Анна Соколов",
+        "text": "Помогите изменить данные в профиле.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 5,
+        "sender_name": "Дмитрий Попова",
+        "text": "Спасибо за подробности. Сейчас посмотрю статус обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "user",
+        "sender_id": 56,
+        "sender_name": "Анна Соколов",
+        "text": "Спасибо, это именно то, что мне нужно.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 5,
+        "sender_name": "Дмитрий Попова",
+        "text": "Проверил данные: подготовил решение для вашего обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 78,
+    "user": {
+      "user_id": 41,
+      "full_name": "Никита Соколов"
+    },
+    "operator": {
+      "operator_id": 5,
+      "full_name": "Дмитрий Попова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 1,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 41,
+        "sender_name": "Никита Соколов",
+        "text": "Не вижу обновление по заказу.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 5,
+        "sender_name": "Дмитрий Попова",
+        "text": "Понял вас. Уточните, пожалуйста, когда возникла проблема?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 79,
+    "user": {
+      "user_id": 11,
+      "full_name": "Никита Соловьёва"
+    },
+    "operator": {
+      "operator_id": 5,
+      "full_name": "Дмитрий Попова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "open",
+    "csat": null,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 11,
+        "sender_name": "Никита Соловьёва",
+        "text": "Не получается войти в личный кабинет.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 5,
+        "sender_name": "Дмитрий Попова",
+        "text": "Проверил данные: подготовил решение для вашего обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "user",
+        "sender_id": 11,
+        "sender_name": "Никита Соловьёва",
+        "text": "Дополнительных деталей пока нет.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 5,
+        "sender_name": "Дмитрий Попова",
+        "text": "Понял вас. Уточните, пожалуйста, когда возникла проблема?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 80,
+    "user": {
+      "user_id": 72,
+      "full_name": "Дмитрий Соловьёва"
+    },
+    "operator": {
+      "operator_id": 10,
+      "full_name": "Анна Волкова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": null,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 72,
+        "sender_name": "Дмитрий Соловьёва",
+        "text": "У меня вопрос по последнему платежу.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 10,
+        "sender_name": "Анна Волкова",
+        "text": "Понял вас. Уточните, пожалуйста, когда возникла проблема?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 81,
+    "user": {
+      "user_id": 55,
+      "full_name": "Елена Попова"
+    },
+    "operator": {
+      "operator_id": 10,
+      "full_name": "Анна Волкова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 2,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 55,
+        "sender_name": "Елена Попова",
+        "text": "Не получается войти в личный кабинет.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 10,
+        "sender_name": "Анна Волкова",
+        "text": "Понял вас. Уточните, пожалуйста, когда возникла проблема?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 82,
+    "user": {
+      "user_id": 20,
+      "full_name": "Дмитрий Лебедева"
+    },
+    "operator": {
+      "operator_id": 10,
+      "full_name": "Анна Волкова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 1,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 20,
+        "sender_name": "Дмитрий Лебедева",
+        "text": "Помогите изменить данные в профиле.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 10,
+        "sender_name": "Анна Волкова",
+        "text": "Спасибо за подробности. Сейчас посмотрю статус обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 83,
+    "user": {
+      "user_id": 36,
+      "full_name": "Татьяна Соловьёва"
+    },
+    "operator": {
+      "operator_id": 10,
+      "full_name": "Анна Волкова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "open",
+    "csat": null,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 36,
+        "sender_name": "Татьяна Соловьёва",
+        "text": "У меня вопрос по последнему платежу.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 10,
+        "sender_name": "Анна Волкова",
+        "text": "Спасибо за подробности. Сейчас посмотрю статус обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 84,
+    "user": {
+      "user_id": 80,
+      "full_name": "Татьяна Морозов"
+    },
+    "operator": {
+      "operator_id": 14,
+      "full_name": "Михаил Соловьёва"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 1,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 80,
+        "sender_name": "Татьяна Морозов",
+        "text": "У меня вопрос по последнему платежу.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 14,
+        "sender_name": "Михаил Соловьёва",
+        "text": "Здравствуйте! Проверю информацию и помогу разобраться.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 85,
+    "user": {
+      "user_id": 24,
+      "full_name": "Сергей Соловьёва"
+    },
+    "operator": {
+      "operator_id": 14,
+      "full_name": "Михаил Соловьёва"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 2,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 24,
+        "sender_name": "Сергей Соловьёва",
+        "text": "Не вижу обновление по заказу.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 14,
+        "sender_name": "Михаил Соловьёва",
+        "text": "Понял вас. Уточните, пожалуйста, когда возникла проблема?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 86,
+    "user": {
+      "user_id": 73,
+      "full_name": "Сергей Новикова"
+    },
+    "operator": {
+      "operator_id": 14,
+      "full_name": "Михаил Соловьёва"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 4,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 73,
+        "sender_name": "Сергей Новикова",
+        "text": "Помогите изменить данные в профиле.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 14,
+        "sender_name": "Михаил Соловьёва",
+        "text": "Здравствуйте! Проверю информацию и помогу разобраться.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "user",
+        "sender_id": 73,
+        "sender_name": "Сергей Новикова",
+        "text": "Дополнительных деталей пока нет.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 14,
+        "sender_name": "Михаил Соловьёва",
+        "text": "Здравствуйте! Проверю информацию и помогу разобраться.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 87,
+    "user": {
+      "user_id": 54,
+      "full_name": "Александр Новикова"
+    },
+    "operator": {
+      "operator_id": 14,
+      "full_name": "Михаил Соловьёва"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "open",
+    "csat": null,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 54,
+        "sender_name": "Александр Новикова",
+        "text": "Помогите изменить данные в профиле.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 14,
+        "sender_name": "Михаил Соловьёва",
+        "text": "Понял вас. Уточните, пожалуйста, когда возникла проблема?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "user",
+        "sender_id": 54,
+        "sender_name": "Александр Новикова",
+        "text": "Спасибо, это именно то, что мне нужно.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 14,
+        "sender_name": "Михаил Соловьёва",
+        "text": "Понял вас. Уточните, пожалуйста, когда возникла проблема?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 88,
+    "user": {
+      "user_id": 7,
+      "full_name": "Никита Волкова"
+    },
+    "operator": {
+      "operator_id": 4,
+      "full_name": "Никита Смирнова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 4,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 7,
+        "sender_name": "Никита Волкова",
+        "text": "Подскажите, когда будет обработан мой запрос?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 4,
+        "sender_name": "Никита Смирнова",
+        "text": "Спасибо за подробности. Сейчас посмотрю статус обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 89,
+    "user": {
+      "user_id": 55,
+      "full_name": "Елена Попова"
+    },
+    "operator": {
+      "operator_id": 4,
+      "full_name": "Никита Смирнова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 5,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 55,
+        "sender_name": "Елена Попова",
+        "text": "Помогите изменить данные в профиле.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 4,
+        "sender_name": "Никита Смирнова",
+        "text": "Проверил данные: подготовил решение для вашего обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "user",
+        "sender_id": 55,
+        "sender_name": "Елена Попова",
+        "text": "Проблема появилась сегодня утром.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 4,
+        "sender_name": "Никита Смирнова",
+        "text": "Здравствуйте! Проверю информацию и помогу разобраться.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 90,
+    "user": {
+      "user_id": 63,
+      "full_name": "Никита Соловьёва"
+    },
+    "operator": {
+      "operator_id": 4,
+      "full_name": "Никита Смирнова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 2,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 63,
+        "sender_name": "Никита Соловьёва",
+        "text": "У меня вопрос по последнему платежу.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 4,
+        "sender_name": "Никита Смирнова",
+        "text": "Понял вас. Уточните, пожалуйста, когда возникла проблема?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "user",
+        "sender_id": 63,
+        "sender_name": "Никита Соловьёва",
+        "text": "Спасибо, это именно то, что мне нужно.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 4,
+        "sender_name": "Никита Смирнова",
+        "text": "Здравствуйте! Проверю информацию и помогу разобраться.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 91,
+    "user": {
+      "user_id": 18,
+      "full_name": "Михаил Кузнецов"
+    },
+    "operator": {
+      "operator_id": 4,
+      "full_name": "Никита Смирнова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "open",
+    "csat": null,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 18,
+        "sender_name": "Михаил Кузнецов",
+        "text": "Не вижу обновление по заказу.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 4,
+        "sender_name": "Никита Смирнова",
+        "text": "Понял вас. Уточните, пожалуйста, когда возникла проблема?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "user",
+        "sender_id": 18,
+        "sender_name": "Михаил Кузнецов",
+        "text": "Проблема появилась сегодня утром.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 4,
+        "sender_name": "Никита Смирнова",
+        "text": "Проверил данные: подготовил решение для вашего обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 92,
+    "user": {
+      "user_id": 69,
+      "full_name": "Елена Кузнецов"
+    },
+    "operator": {
+      "operator_id": 13,
+      "full_name": "Сергей Петров"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 1,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 69,
+        "sender_name": "Елена Кузнецов",
+        "text": "Подскажите, когда будет обработан мой запрос?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 13,
+        "sender_name": "Сергей Петров",
+        "text": "Понял вас. Уточните, пожалуйста, когда возникла проблема?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "user",
+        "sender_id": 69,
+        "sender_name": "Елена Кузнецов",
+        "text": "Дополнительных деталей пока нет.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 13,
+        "sender_name": "Сергей Петров",
+        "text": "Здравствуйте! Проверю информацию и помогу разобраться.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 93,
+    "user": {
+      "user_id": 41,
+      "full_name": "Никита Соколов"
+    },
+    "operator": {
+      "operator_id": 13,
+      "full_name": "Сергей Петров"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 1,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 41,
+        "sender_name": "Никита Соколов",
+        "text": "У меня вопрос по последнему платежу.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 13,
+        "sender_name": "Сергей Петров",
+        "text": "Проверил данные: подготовил решение для вашего обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 94,
+    "user": {
+      "user_id": 52,
+      "full_name": "Дмитрий Попова"
+    },
+    "operator": {
+      "operator_id": 13,
+      "full_name": "Сергей Петров"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "open",
+    "csat": null,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 52,
+        "sender_name": "Дмитрий Попова",
+        "text": "Не получается войти в личный кабинет.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 13,
+        "sender_name": "Сергей Петров",
+        "text": "Понял вас. Уточните, пожалуйста, когда возникла проблема?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "user",
+        "sender_id": 52,
+        "sender_name": "Дмитрий Попова",
+        "text": "Дополнительных деталей пока нет.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 13,
+        "sender_name": "Сергей Петров",
+        "text": "Проверил данные: подготовил решение для вашего обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 95,
+    "user": {
+      "user_id": 12,
+      "full_name": "Мария Козлов"
+    },
+    "operator": {
+      "operator_id": 3,
+      "full_name": "Анна Новикова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 3,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 12,
+        "sender_name": "Мария Козлов",
+        "text": "Помогите изменить данные в профиле.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 3,
+        "sender_name": "Анна Новикова",
+        "text": "Здравствуйте! Проверю информацию и помогу разобраться.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "user",
+        "sender_id": 12,
+        "sender_name": "Мария Козлов",
+        "text": "Дополнительных деталей пока нет.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 3,
+        "sender_name": "Анна Новикова",
+        "text": "Проверил данные: подготовил решение для вашего обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 96,
+    "user": {
+      "user_id": 44,
+      "full_name": "Иван Волкова"
+    },
+    "operator": {
+      "operator_id": 3,
+      "full_name": "Анна Новикова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 5,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 44,
+        "sender_name": "Иван Волкова",
+        "text": "Подскажите, когда будет обработан мой запрос?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 3,
+        "sender_name": "Анна Новикова",
+        "text": "Понял вас. Уточните, пожалуйста, когда возникла проблема?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 97,
+    "user": {
+      "user_id": 66,
+      "full_name": "Никита Волкова"
+    },
+    "operator": {
+      "operator_id": 3,
+      "full_name": "Анна Новикова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 2,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 66,
+        "sender_name": "Никита Волкова",
+        "text": "Подскажите, когда будет обработан мой запрос?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 3,
+        "sender_name": "Анна Новикова",
+        "text": "Понял вас. Уточните, пожалуйста, когда возникла проблема?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "user",
+        "sender_id": 66,
+        "sender_name": "Никита Волкова",
+        "text": "Дополнительных деталей пока нет.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 3,
+        "sender_name": "Анна Новикова",
+        "text": "Спасибо за подробности. Сейчас посмотрю статус обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 98,
+    "user": {
+      "user_id": 23,
+      "full_name": "Никита Новикова"
+    },
+    "operator": {
+      "operator_id": 3,
+      "full_name": "Анна Новикова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 4,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 23,
+        "sender_name": "Никита Новикова",
+        "text": "У меня вопрос по последнему платежу.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 3,
+        "sender_name": "Анна Новикова",
+        "text": "Спасибо за подробности. Сейчас посмотрю статус обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 99,
+    "user": {
+      "user_id": 60,
+      "full_name": "Сергей Петров"
+    },
+    "operator": {
+      "operator_id": 3,
+      "full_name": "Анна Новикова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "open",
+    "csat": null,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 60,
+        "sender_name": "Сергей Петров",
+        "text": "У меня вопрос по последнему платежу.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 3,
+        "sender_name": "Анна Новикова",
+        "text": "Проверил данные: подготовил решение для вашего обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 100,
+    "user": {
+      "user_id": 42,
+      "full_name": "Татьяна Смирнова"
+    },
+    "operator": {
+      "operator_id": 1,
+      "full_name": "Дмитрий Новикова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 5,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 42,
+        "sender_name": "Татьяна Смирнова",
+        "text": "Не вижу обновление по заказу.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 1,
+        "sender_name": "Дмитрий Новикова",
+        "text": "Спасибо за подробности. Сейчас посмотрю статус обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "user",
+        "sender_id": 42,
+        "sender_name": "Татьяна Смирнова",
+        "text": "Спасибо, это именно то, что мне нужно.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 1,
+        "sender_name": "Дмитрий Новикова",
+        "text": "Проверил данные: подготовил решение для вашего обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 101,
+    "user": {
+      "user_id": 8,
+      "full_name": "Иван Смирнова"
+    },
+    "operator": {
+      "operator_id": 1,
+      "full_name": "Дмитрий Новикова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": null,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 8,
+        "sender_name": "Иван Смирнова",
+        "text": "Не вижу обновление по заказу.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 1,
+        "sender_name": "Дмитрий Новикова",
+        "text": "Здравствуйте! Проверю информацию и помогу разобраться.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "user",
+        "sender_id": 8,
+        "sender_name": "Иван Смирнова",
+        "text": "Спасибо, это именно то, что мне нужно.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 1,
+        "sender_name": "Дмитрий Новикова",
+        "text": "Здравствуйте! Проверю информацию и помогу разобраться.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 102,
+    "user": {
+      "user_id": 10,
+      "full_name": "Никита Смирнова"
+    },
+    "operator": {
+      "operator_id": 1,
+      "full_name": "Дмитрий Новикова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 1,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 10,
+        "sender_name": "Никита Смирнова",
+        "text": "Не получается войти в личный кабинет.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 1,
+        "sender_name": "Дмитрий Новикова",
+        "text": "Проверил данные: подготовил решение для вашего обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 103,
+    "user": {
+      "user_id": 58,
+      "full_name": "Мария Соловьёва"
+    },
+    "operator": {
+      "operator_id": 1,
+      "full_name": "Дмитрий Новикова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "open",
+    "csat": null,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 58,
+        "sender_name": "Мария Соловьёва",
+        "text": "У меня вопрос по последнему платежу.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 1,
+        "sender_name": "Дмитрий Новикова",
+        "text": "Спасибо за подробности. Сейчас посмотрю статус обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "user",
+        "sender_id": 58,
+        "sender_name": "Мария Соловьёва",
+        "text": "Спасибо, это именно то, что мне нужно.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 1,
+        "sender_name": "Дмитрий Новикова",
+        "text": "Спасибо за подробности. Сейчас посмотрю статус обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 104,
+    "user": {
+      "user_id": 11,
+      "full_name": "Никита Соловьёва"
+    },
+    "operator": {
+      "operator_id": 6,
+      "full_name": "Ольга Соловьёва"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "open",
+    "csat": null,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 11,
+        "sender_name": "Никита Соловьёва",
+        "text": "У меня вопрос по последнему платежу.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 6,
+        "sender_name": "Ольга Соловьёва",
+        "text": "Спасибо за подробности. Сейчас посмотрю статус обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "user",
+        "sender_id": 11,
+        "sender_name": "Никита Соловьёва",
+        "text": "Дополнительных деталей пока нет.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 6,
+        "sender_name": "Ольга Соловьёва",
+        "text": "Проверил данные: подготовил решение для вашего обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 105,
+    "user": {
+      "user_id": 21,
+      "full_name": "Анна Лебедева"
+    },
+    "operator": {
+      "operator_id": 9,
+      "full_name": "Никита Попова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 5,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 21,
+        "sender_name": "Анна Лебедева",
+        "text": "Не вижу обновление по заказу.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 9,
+        "sender_name": "Никита Попова",
+        "text": "Понял вас. Уточните, пожалуйста, когда возникла проблема?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 106,
+    "user": {
+      "user_id": 7,
+      "full_name": "Никита Волкова"
+    },
+    "operator": {
+      "operator_id": 9,
+      "full_name": "Никита Попова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 5,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 7,
+        "sender_name": "Никита Волкова",
+        "text": "Не вижу обновление по заказу.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 9,
+        "sender_name": "Никита Попова",
+        "text": "Здравствуйте! Проверю информацию и помогу разобраться.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "user",
+        "sender_id": 7,
+        "sender_name": "Никита Волкова",
+        "text": "Дополнительных деталей пока нет.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 9,
+        "sender_name": "Никита Попова",
+        "text": "Проверил данные: подготовил решение для вашего обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 107,
+    "user": {
+      "user_id": 20,
+      "full_name": "Дмитрий Лебедева"
+    },
+    "operator": {
+      "operator_id": 9,
+      "full_name": "Никита Попова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 4,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 20,
+        "sender_name": "Дмитрий Лебедева",
+        "text": "Не вижу обновление по заказу.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 9,
+        "sender_name": "Никита Попова",
+        "text": "Здравствуйте! Проверю информацию и помогу разобраться.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 108,
+    "user": {
+      "user_id": 17,
+      "full_name": "Иван Морозов"
+    },
+    "operator": {
+      "operator_id": 9,
+      "full_name": "Никита Попова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "open",
+    "csat": null,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 17,
+        "sender_name": "Иван Морозов",
+        "text": "У меня вопрос по последнему платежу.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 9,
+        "sender_name": "Никита Попова",
+        "text": "Здравствуйте! Проверю информацию и помогу разобраться.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "user",
+        "sender_id": 17,
+        "sender_name": "Иван Морозов",
+        "text": "Спасибо, это именно то, что мне нужно.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 9,
+        "sender_name": "Никита Попова",
+        "text": "Понял вас. Уточните, пожалуйста, когда возникла проблема?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 109,
+    "user": {
+      "user_id": 12,
+      "full_name": "Мария Козлов"
+    },
+    "operator": {
+      "operator_id": 11,
+      "full_name": "Анна Морозов"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "open",
+    "csat": null,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 12,
+        "sender_name": "Мария Козлов",
+        "text": "Помогите изменить данные в профиле.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 11,
+        "sender_name": "Анна Морозов",
+        "text": "Понял вас. Уточните, пожалуйста, когда возникла проблема?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "user",
+        "sender_id": 12,
+        "sender_name": "Мария Козлов",
+        "text": "Спасибо, это именно то, что мне нужно.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 11,
+        "sender_name": "Анна Морозов",
+        "text": "Спасибо за подробности. Сейчас посмотрю статус обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 110,
+    "user": {
+      "user_id": 25,
+      "full_name": "Ольга Смирнова"
+    },
+    "operator": {
+      "operator_id": 8,
+      "full_name": "Татьяна Петров"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 5,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 25,
+        "sender_name": "Ольга Смирнова",
+        "text": "Подскажите, когда будет обработан мой запрос?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 8,
+        "sender_name": "Татьяна Петров",
+        "text": "Спасибо за подробности. Сейчас посмотрю статус обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "user",
+        "sender_id": 25,
+        "sender_name": "Ольга Смирнова",
+        "text": "Спасибо, это именно то, что мне нужно.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 8,
+        "sender_name": "Татьяна Петров",
+        "text": "Здравствуйте! Проверю информацию и помогу разобраться.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 111,
+    "user": {
+      "user_id": 5,
+      "full_name": "Мария Смирнова"
+    },
+    "operator": {
+      "operator_id": 8,
+      "full_name": "Татьяна Петров"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 5,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 5,
+        "sender_name": "Мария Смирнова",
+        "text": "Не вижу обновление по заказу.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 8,
+        "sender_name": "Татьяна Петров",
+        "text": "Спасибо за подробности. Сейчас посмотрю статус обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 112,
+    "user": {
+      "user_id": 22,
+      "full_name": "Анна Соловьёва"
+    },
+    "operator": {
+      "operator_id": 8,
+      "full_name": "Татьяна Петров"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "open",
+    "csat": null,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 22,
+        "sender_name": "Анна Соловьёва",
+        "text": "Помогите изменить данные в профиле.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 8,
+        "sender_name": "Татьяна Петров",
+        "text": "Здравствуйте! Проверю информацию и помогу разобраться.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "user",
+        "sender_id": 22,
+        "sender_name": "Анна Соловьёва",
+        "text": "Дополнительных деталей пока нет.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 8,
+        "sender_name": "Татьяна Петров",
+        "text": "Спасибо за подробности. Сейчас посмотрю статус обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 113,
+    "user": {
+      "user_id": 30,
+      "full_name": "Анастасия Иванов"
+    },
+    "operator": {
+      "operator_id": 7,
+      "full_name": "Анастасия Смирнова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": null,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 30,
+        "sender_name": "Анастасия Иванов",
+        "text": "У меня вопрос по последнему платежу.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 7,
+        "sender_name": "Анастасия Смирнова",
+        "text": "Спасибо за подробности. Сейчас посмотрю статус обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "user",
+        "sender_id": 30,
+        "sender_name": "Анастасия Иванов",
+        "text": "Спасибо, это именно то, что мне нужно.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 7,
+        "sender_name": "Анастасия Смирнова",
+        "text": "Спасибо за подробности. Сейчас посмотрю статус обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 114,
+    "user": {
+      "user_id": 57,
+      "full_name": "Анна Соколов"
+    },
+    "operator": {
+      "operator_id": 7,
+      "full_name": "Анастасия Смирнова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 2,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 57,
+        "sender_name": "Анна Соколов",
+        "text": "Помогите изменить данные в профиле.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 7,
+        "sender_name": "Анастасия Смирнова",
+        "text": "Понял вас. Уточните, пожалуйста, когда возникла проблема?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 115,
+    "user": {
+      "user_id": 26,
+      "full_name": "Сергей Попова"
+    },
+    "operator": {
+      "operator_id": 7,
+      "full_name": "Анастасия Смирнова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 3,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 26,
+        "sender_name": "Сергей Попова",
+        "text": "У меня вопрос по последнему платежу.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 7,
+        "sender_name": "Анастасия Смирнова",
+        "text": "Спасибо за подробности. Сейчас посмотрю статус обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 116,
+    "user": {
+      "user_id": 71,
+      "full_name": "Ольга Петров"
+    },
+    "operator": {
+      "operator_id": 7,
+      "full_name": "Анастасия Смирнова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "closed",
+    "csat": 4,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 71,
+        "sender_name": "Ольга Петров",
+        "text": "Не получается войти в личный кабинет.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 7,
+        "sender_name": "Анастасия Смирнова",
+        "text": "Здравствуйте! Проверю информацию и помогу разобраться.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "user",
+        "sender_id": 71,
+        "sender_name": "Ольга Петров",
+        "text": "Проблема появилась сегодня утром.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 7,
+        "sender_name": "Анастасия Смирнова",
+        "text": "Понял вас. Уточните, пожалуйста, когда возникла проблема?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 117,
+    "user": {
+      "user_id": 12,
+      "full_name": "Мария Козлов"
+    },
+    "operator": {
+      "operator_id": 7,
+      "full_name": "Анастасия Смирнова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "open",
+    "csat": null,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 12,
+        "sender_name": "Мария Козлов",
+        "text": "Подскажите, когда будет обработан мой запрос?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 7,
+        "sender_name": "Анастасия Смирнова",
+        "text": "Проверил данные: подготовил решение для вашего обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 118,
+    "user": {
+      "user_id": 65,
+      "full_name": "Елена Морозов"
+    },
+    "operator": {
+      "operator_id": 15,
+      "full_name": "Елена Новикова"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "open",
+    "csat": null,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 65,
+        "sender_name": "Елена Морозов",
+        "text": "Не вижу обновление по заказу.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 15,
+        "sender_name": "Елена Новикова",
+        "text": "Спасибо за подробности. Сейчас посмотрю статус обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "user",
+        "sender_id": 65,
+        "sender_name": "Елена Морозов",
+        "text": "Проблема появилась сегодня утром.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 15,
+        "sender_name": "Елена Новикова",
+        "text": "Понял вас. Уточните, пожалуйста, когда возникла проблема?",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 119,
+    "user": {
+      "user_id": 13,
+      "full_name": "Елена Петров"
+    },
+    "operator": {
+      "operator_id": 12,
+      "full_name": "Мария Петров"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "open",
+    "csat": null,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 13,
+        "sender_name": "Елена Петров",
+        "text": "Не вижу обновление по заказу.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 12,
+        "sender_name": "Мария Петров",
+        "text": "Спасибо за подробности. Сейчас посмотрю статус обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "user",
+        "sender_id": 13,
+        "sender_name": "Елена Петров",
+        "text": "Спасибо, это именно то, что мне нужно.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 12,
+        "sender_name": "Мария Петров",
+        "text": "Проверил данные: подготовил решение для вашего обращения.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  },
+  {
+    "chat_id": 120,
+    "user": {
+      "user_id": 61,
+      "full_name": "Татьяна Лебедева"
+    },
+    "operator": {
+      "operator_id": 2,
+      "full_name": "Ольга Лебедева"
+    },
+    "created_at": "2026-10-27T23:47:34+02:00",
+    "status": "open",
+    "csat": null,
+    "messages": [
+      {
+        "sender_type": "user",
+        "sender_id": 61,
+        "sender_name": "Татьяна Лебедева",
+        "text": "Помогите изменить данные в профиле.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      },
+      {
+        "sender_type": "operator",
+        "sender_id": 2,
+        "sender_name": "Ольга Лебедева",
+        "text": "Здравствуйте! Проверю информацию и помогу разобраться.",
+        "sent_at": "2026-10-27T23:47:34+02:00"
+      }
+    ]
+  }
+]

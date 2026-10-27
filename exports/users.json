@@ -1,0 +1,642 @@
+[
+  {
+    "user_id": 1,
+    "full_name": "Иван Попова",
+    "city": "Новосибирск",
+    "birth_date": "1972-01-24",
+    "position": "Бухгалтер",
+    "experience_years": 6
+  },
+  {
+    "user_id": 2,
+    "full_name": "Михаил Иванов",
+    "city": "Москва",
+    "birth_date": "1999-02-19",
+    "position": "Продавец-консультант",
+    "experience_years": 3
+  },
+  {
+    "user_id": 3,
+    "full_name": "Александр Морозов",
+    "city": "Новосибирск",
+    "birth_date": "1979-09-20",
+    "position": "Врач",
+    "experience_years": 14
+  },
+  {
+    "user_id": 4,
+    "full_name": "Александр Кузнецов",
+    "city": "Самара",
+    "birth_date": "1993-10-09",
+    "position": "Студент",
+    "experience_years": 8
+  },
+  {
+    "user_id": 5,
+    "full_name": "Мария Смирнова",
+    "city": "Санкт-Петербург",
+    "birth_date": "1974-04-25",
+    "position": "Врач",
+    "experience_years": 6
+  },
+  {
+    "user_id": 6,
+    "full_name": "Иван Иванов",
+    "city": "Нижний Новгород",
+    "birth_date": "1987-06-20",
+    "position": "Продавец-консультант",
+    "experience_years": 12
+  },
+  {
+    "user_id": 7,
+    "full_name": "Никита Волкова",
+    "city": "Калининград",
+    "birth_date": "1970-09-10",
+    "position": "Инженер",
+    "experience_years": 4
+  },
+  {
+    "user_id": 8,
+    "full_name": "Иван Смирнова",
+    "city": "Новосибирск",
+    "birth_date": "1967-11-08",
+    "position": "Продавец-консультант",
+    "experience_years": 24
+  },
+  {
+    "user_id": 9,
+    "full_name": "Мария Кузнецов",
+    "city": "Калининград",
+    "birth_date": "1982-08-21",
+    "position": "Студент",
+    "experience_years": 6
+  },
+  {
+    "user_id": 10,
+    "full_name": "Никита Смирнова",
+    "city": "Казань",
+    "birth_date": "1982-12-22",
+    "position": "Инженер",
+    "experience_years": 5
+  },
+  {
+    "user_id": 11,
+    "full_name": "Никита Соловьёва",
+    "city": "Новосибирск",
+    "birth_date": "1994-07-09",
+    "position": "Студент",
+    "experience_years": 1
+  },
+  {
+    "user_id": 12,
+    "full_name": "Мария Козлов",
+    "city": "Екатеринбург",
+    "birth_date": "1979-01-26",
+    "position": "Продавец-консультант",
+    "experience_years": 13
+  },
+  {
+    "user_id": 13,
+    "full_name": "Елена Петров",
+    "city": "Нижний Новгород",
+    "birth_date": "2001-12-11",
+    "position": "Врач",
+    "experience_years": 7
+  },
+  {
+    "user_id": 14,
+    "full_name": "Елена Соловьёва",
+    "city": "Екатеринбург",
+    "birth_date": "1974-05-05",
+    "position": "Врач",
+    "experience_years": 25
+  },
+  {
+    "user_id": 15,
+    "full_name": "Сергей Новикова",
+    "city": "Санкт-Петербург",
+    "birth_date": "1988-04-05",
+    "position": "Менеджер",
+    "experience_years": 3
+  },
+  {
+    "user_id": 16,
+    "full_name": "Никита Козлов",
+    "city": "Санкт-Петербург",
+    "birth_date": "1974-11-06",
+    "position": "Врач",
+    "experience_years": 24
+  },
+  {
+    "user_id": 17,
+    "full_name": "Иван Морозов",
+    "city": "Москва",
+    "birth_date": "2003-08-17",
+    "position": "Продавец-консультант",
+    "experience_years": 4
+  },
+  {
+    "user_id": 18,
+    "full_name": "Михаил Кузнецов",
+    "city": "Нижний Новгород",
+    "birth_date": "1986-02-10",
+    "position": "Менеджер",
+    "experience_years": 23
+  },
+  {
+    "user_id": 19,
+    "full_name": "Дмитрий Морозов",
+    "city": "Санкт-Петербург",
+    "birth_date": "1981-09-25",
+    "position": "Программист",
+    "experience_years": 26
+  },
+  {
+    "user_id": 20,
+    "full_name": "Дмитрий Лебедева",
+    "city": "Казань",
+    "birth_date": "1997-10-07",
+    "position": "Менеджер",
+    "experience_years": 9
+  },
+  {
+    "user_id": 21,
+    "full_name": "Анна Лебедева",
+    "city": "Екатеринбург",
+    "birth_date": "1985-08-01",
+    "position": "Инженер",
+    "experience_years": 1
+  },
+  {
+    "user_id": 22,
+    "full_name": "Анна Соловьёва",
+    "city": "Нижний Новгород",
+    "birth_date": "1980-10-03",
+    "position": "Продавец-консультант",
+    "experience_years": 24
+  },
+  {
+    "user_id": 23,
+    "full_name": "Никита Новикова",
+    "city": "Казань",
+    "birth_date": "1999-03-05",
+    "position": "Программист",
+    "experience_years": 8
+  },
+  {
+    "user_id": 24,
+    "full_name": "Сергей Соловьёва",
+    "city": "Новосибирск",
+    "birth_date": "2003-07-07",
+    "position": "Программист",
+    "experience_years": 6
+  },
+  {
+    "user_id": 25,
+    "full_name": "Ольга Смирнова",
+    "city": "Новосибирск",
+    "birth_date": "1988-08-17",
+    "position": "Инженер",
+    "experience_years": 2
+  },
+  {
+    "user_id": 26,
+    "full_name": "Сергей Попова",
+    "city": "Новосибирск",
+    "birth_date": "1986-01-19",
+    "position": "Менеджер",
+    "experience_years": 2
+  },
+  {
+    "user_id": 27,
+    "full_name": "Александр Лебедева",
+    "city": "Санкт-Петербург",
+    "birth_date": "1968-04-03",
+    "position": "Инженер",
+    "experience_years": 17
+  },
+  {
+    "user_id": 28,
+    "full_name": "Дмитрий Соловьёва",
+    "city": "Нижний Новгород",
+    "birth_date": "1996-04-18",
+    "position": "Инженер",
+    "experience_years": 12
+  },
+  {
+    "user_id": 29,
+    "full_name": "Анна Смирнова",
+    "city": "Самара",
+    "birth_date": "1995-07-07",
+    "position": "Студент",
+    "experience_years": 13
+  },
+  {
+    "user_id": 30,
+    "full_name": "Анастасия Иванов",
+    "city": "Санкт-Петербург",
+    "birth_date": "1991-08-28",
+    "position": "Менеджер",
+    "experience_years": 12
+  },
+  {
+    "user_id": 31,
+    "full_name": "Елена Попова",
+    "city": "Нижний Новгород",
+    "birth_date": "1986-02-08",
+    "position": "Бухгалтер",
+    "experience_years": 13
+  },
+  {
+    "user_id": 32,
+    "full_name": "Елена Смирнова",
+    "city": "Нижний Новгород",
+    "birth_date": "1976-05-15",
+    "position": "Продавец-консультант",
+    "experience_years": 3
+  },
+  {
+    "user_id": 33,
+    "full_name": "Елена Кузнецов",
+    "city": "Самара",
+    "birth_date": "1999-01-03",
+    "position": "Предприниматель",
+    "experience_years": 7
+  },
+  {
+    "user_id": 34,
+    "full_name": "Дмитрий Козлов",
+    "city": "Москва",
+    "birth_date": "1978-07-02",
+    "position": "Врач",
+    "experience_years": 16
+  },
+  {
+    "user_id": 35,
+    "full_name": "Анастасия Соловьёва",
+    "city": "Нижний Новгород",
+    "birth_date": "1994-05-14",
+    "position": "Бухгалтер",
+    "experience_years": 6
+  },
+  {
+    "user_id": 36,
+    "full_name": "Татьяна Соловьёва",
+    "city": "Москва",
+    "birth_date": "1983-04-02",
+    "position": "Студент",
+    "experience_years": 1
+  },
+  {
+    "user_id": 37,
+    "full_name": "Сергей Морозов",
+    "city": "Казань",
+    "birth_date": "1968-10-16",
+    "position": "Менеджер",
+    "experience_years": 32
+  },
+  {
+    "user_id": 38,
+    "full_name": "Татьяна Смирнова",
+    "city": "Новосибирск",
+    "birth_date": "1970-03-03",
+    "position": "Врач",
+    "experience_years": 7
+  },
+  {
+    "user_id": 39,
+    "full_name": "Татьяна Иванов",
+    "city": "Санкт-Петербург",
+    "birth_date": "2001-04-19",
+    "position": "Врач",
+    "experience_years": 9
+  },
+  {
+    "user_id": 40,
+    "full_name": "Иван Попова",
+    "city": "Калининград",
+    "birth_date": "2001-09-11",
+    "position": "Инженер",
+    "experience_years": 4
+  },
+  {
+    "user_id": 41,
+    "full_name": "Никита Соколов",
+    "city": "Нижний Новгород",
+    "birth_date": "1990-03-22",
+    "position": "Студент",
+    "experience_years": 2
+  },
+  {
+    "user_id": 42,
+    "full_name": "Татьяна Смирнова",
+    "city": "Санкт-Петербург",
+    "birth_date": "1965-08-20",
+    "position": "Инженер",
+    "experience_years": 32
+  },
+  {
+    "user_id": 43,
+    "full_name": "Анна Попова",
+    "city": "Калининград",
+    "birth_date": "1981-03-12",
+    "position": "Программист",
+    "experience_years": 5
+  },
+  {
+    "user_id": 44,
+    "full_name": "Иван Волкова",
+    "city": "Москва",
+    "birth_date": "1993-09-23",
+    "position": "Программист",
+    "experience_years": 3
+  },
+  {
+    "user_id": 45,
+    "full_name": "Анна Соловьёва",
+    "city": "Казань",
+    "birth_date": "1973-05-04",
+    "position": "Программист",
+    "experience_years": 18
+  },
+  {
+    "user_id": 46,
+    "full_name": "Мария Попова",
+    "city": "Екатеринбург",
+    "birth_date": "2003-04-23",
+    "position": "Предприниматель",
+    "experience_years": 4
+  },
+  {
+    "user_id": 47,
+    "full_name": "Михаил Соколов",
+    "city": "Москва",
+    "birth_date": "1968-02-21",
+    "position": "Менеджер",
+    "experience_years": 21
+  },
+  {
+    "user_id": 48,
+    "full_name": "Дмитрий Соловьёва",
+    "city": "Нижний Новгород",
+    "birth_date": "1973-11-09",
+    "position": "Врач",
+    "experience_years": 35
+  },
+  {
+    "user_id": 49,
+    "full_name": "Анастасия Кузнецов",
+    "city": "Москва",
+    "birth_date": "1965-02-03",
+    "position": "Студент",
+    "experience_years": 37
+  },
+  {
+    "user_id": 50,
+    "full_name": "Дмитрий Иванов",
+    "city": "Екатеринбург",
+    "birth_date": "2000-03-14",
+    "position": "Студент",
+    "experience_years": 0
+  },
+  {
+    "user_id": 51,
+    "full_name": "Елена Петров",
+    "city": "Санкт-Петербург",
+    "birth_date": "1987-04-22",
+    "position": "Студент",
+    "experience_years": 17
+  },
+  {
+    "user_id": 52,
+    "full_name": "Дмитрий Попова",
+    "city": "Казань",
+    "birth_date": "1991-10-24",
+    "position": "Бухгалтер",
+    "experience_years": 13
+  },
+  {
+    "user_id": 53,
+    "full_name": "Мария Козлов",
+    "city": "Новосибирск",
+    "birth_date": "1966-03-24",
+    "position": "Программист",
+    "experience_years": 10
+  },
+  {
+    "user_id": 54,
+    "full_name": "Александр Новикова",
+    "city": "Новосибирск",
+    "birth_date": "1971-07-28",
+    "position": "Инженер",
+    "experience_years": 29
+  },
+  {
+    "user_id": 55,
+    "full_name": "Елена Попова",
+    "city": "Москва",
+    "birth_date": "1987-05-27",
+    "position": "Инженер",
+    "experience_years": 12
+  },
+  {
+    "user_id": 56,
+    "full_name": "Анна Соколов",
+    "city": "Калининград",
+    "birth_date": "1986-05-28",
+    "position": "Врач",
+    "experience_years": 21
+  },
+  {
+    "user_id": 57,
+    "full_name": "Анна Соколов",
+    "city": "Казань",
+    "birth_date": "1999-06-01",
+    "position": "Программист",
+    "experience_years": 0
+  },
+  {
+    "user_id": 58,
+    "full_name": "Мария Соловьёва",
+    "city": "Калининград",
+    "birth_date": "1971-10-14",
+    "position": "Врач",
+    "experience_years": 38
+  },
+  {
+    "user_id": 59,
+    "full_name": "Татьяна Попова",
+    "city": "Екатеринбург",
+    "birth_date": "1997-02-13",
+    "position": "Менеджер",
+    "experience_years": 11
+  },
+  {
+    "user_id": 60,
+    "full_name": "Сергей Петров",
+    "city": "Новосибирск",
+    "birth_date": "1992-01-17",
+    "position": "Студент",
+    "experience_years": 13
+  },
+  {
+    "user_id": 61,
+    "full_name": "Татьяна Лебедева",
+    "city": "Санкт-Петербург",
+    "birth_date": "1969-11-11",
+    "position": "Программист",
+    "experience_years": 32
+  },
+  {
+    "user_id": 62,
+    "full_name": "Мария Козлов",
+    "city": "Екатеринбург",
+    "birth_date": "1984-11-14",
+    "position": "Бухгалтер",
+    "experience_years": 6
+  },
+  {
+    "user_id": 63,
+    "full_name": "Никита Соловьёва",
+    "city": "Казань",
+    "birth_date": "1991-11-13",
+    "position": "Программист",
+    "experience_years": 12
+  },
+  {
+    "user_id": 64,
+    "full_name": "Иван Попова",
+    "city": "Самара",
+    "birth_date": "2000-01-10",
+    "position": "Студент",
+    "experience_years": 7
+  },
+  {
+    "user_id": 65,
+    "full_name": "Елена Морозов",
+    "city": "Нижний Новгород",
+    "birth_date": "1993-08-22",
+    "position": "Бухгалтер",
+    "experience_years": 2
+  },
+  {
+    "user_id": 66,
+    "full_name": "Никита Волкова",
+    "city": "Калининград",
+    "birth_date": "1983-09-22",
+    "position": "Продавец-консультант",
+    "experience_years": 26
+  },
+  {
+    "user_id": 67,
+    "full_name": "Елена Попова",
+    "city": "Казань",
+    "birth_date": "1980-11-10",
+    "position": "Менеджер",
+    "experience_years": 1
+  },
+  {
+    "user_id": 68,
+    "full_name": "Анна Новикова",
+    "city": "Самара",
+    "birth_date": "1980-08-20",
+    "position": "Инженер",
+    "experience_years": 22
+  },
+  {
+    "user_id": 69,
+    "full_name": "Елена Кузнецов",
+    "city": "Москва",
+    "birth_date": "1989-08-13",
+    "position": "Продавец-консультант",
+    "experience_years": 13
+  },
+  {
+    "user_id": 70,
+    "full_name": "Анастасия Морозов",
+    "city": "Нижний Новгород",
+    "birth_date": "1979-03-26",
+    "position": "Менеджер",
+    "experience_years": 15
+  },
+  {
+    "user_id": 71,
+    "full_name": "Ольга Петров",
+    "city": "Калининград",
+    "birth_date": "1972-08-05",
+    "position": "Предприниматель",
+    "experience_years": 32
+  },
+  {
+    "user_id": 72,
+    "full_name": "Дмитрий Соловьёва",
+    "city": "Нижний Новгород",
+    "birth_date": "1992-09-15",
+    "position": "Предприниматель",
+    "experience_years": 8
+  },
+  {
+    "user_id": 73,
+    "full_name": "Сергей Новикова",
+    "city": "Новосибирск",
+    "birth_date": "1980-11-09",
+    "position": "Программист",
+    "experience_years": 14
+  },
+  {
+    "user_id": 74,
+    "full_name": "Елена Соколов",
+    "city": "Калининград",
+    "birth_date": "1969-12-10",
+    "position": "Студент",
+    "experience_years": 34
+  },
+  {
+    "user_id": 75,
+    "full_name": "Елена Козлов",
+    "city": "Казань",
+    "birth_date": "1970-03-05",
+    "position": "Инженер",
+    "experience_years": 4
+  },
+  {
+    "user_id": 76,
+    "full_name": "Сергей Новикова",
+    "city": "Самара",
+    "birth_date": "1991-07-11",
+    "position": "Менеджер",
+    "experience_years": 6
+  },
+  {
+    "user_id": 77,
+    "full_name": "Татьяна Соловьёва",
+    "city": "Москва",
+    "birth_date": "1991-07-25",
+    "position": "Врач",
+    "experience_years": 15
+  },
+  {
+    "user_id": 78,
+    "full_name": "Михаил Козлов",
+    "city": "Новосибирск",
+    "birth_date": "1965-06-10",
+    "position": "Предприниматель",
+    "experience_years": 14
+  },
+  {
+    "user_id": 79,
+    "full_name": "Александр Козлов",
+    "city": "Калининград",
+    "birth_date": "1982-07-16",
+    "position": "Врач",
+    "experience_years": 23
+  },
+  {
+    "user_id": 80,
+    "full_name": "Татьяна Морозов",
+    "city": "Москва",
+    "birth_date": "1975-08-05",
+    "position": "Врач",
+    "experience_years": 1
+  }
+]
